@@ -41,7 +41,10 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
+    "css-loader": "^2.1.0",
+    "postcss-loader": "^3.0.0",
     "redux-devtools-extension": "^2.13.2",
-    "source-map-explorer": "^1.5.0"
+    "source-map-explorer": "^1.5.0",
+    "style-loader": "^0.23.1"
   }
 }
